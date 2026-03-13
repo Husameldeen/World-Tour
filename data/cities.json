@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -35,30 +23,6 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
-    },
-    {
-      "id": "06ef",
-      "cityName": "Jebrat al Sheikh District",
-      "country": "Sudan (the)",
-      "emoji": "🇸🇩",
-      "date": "2026-03-12T21:00:14.709Z",
-      "notes": "bad",
-      "position": {
-        "lat": "15.015759016530952",
-        "lng": "31.998710632324222"
-      }
-    },
-    {
-      "id": "c388",
-      "cityName": "Jabal Awlya",
-      "country": "Sudan (the)",
-      "emoji": "🇸🇩",
-      "date": "2026-03-12T21:05:26.060Z",
-      "notes": "123",
-      "position": {
-        "lat": "15.241797140759276",
-        "lng": "32.51403808593751"
-      }
     },
     {
       "id": "aaef",
@@ -85,15 +49,15 @@
       }
     },
     {
-      "id": "3054",
-      "cityName": "Khartoum",
-      "country": "Sudan (the)",
-      "emoji": "🇸🇩",
-      "date": "2026-03-12T21:44:17.755Z",
-      "notes": "",
+      "id": "ded2",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2026-03-13T11:56:34.145Z",
+      "notes": "wow",
       "position": {
-        "lat": "15.93275622727545",
-        "lng": "32.47558593750001"
+        "lat": "38.704613528312834",
+        "lng": "-9.143606104772038"
       }
     }
   ],
